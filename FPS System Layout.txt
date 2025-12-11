@@ -127,6 +127,31 @@ Series    Qty.      Name           Function
 4446      1         CUSTOM FMT     Custom Formatter
 4448      1         AP I/F         Arithmetic Processor Interface
 
+Dave McGuire's AP-120B
+4208      1         FMUL C         Floating Multiplier C
+4207      1         FMUL B         Floating Multiplier B
+4206      1         FMUL A         Floating Multiplier A
+4205      1         FADD 3         Floating Adder 3
+4204      1         FADD 2         Floating Adder 2
+4203      1         FADD 1         Floating Adder 1
+4200      1         DATA PAD       Data Pad Left and Right
+4200      1         DATA PAD       Data Pad Left and Right
+4213      1         MIREG          Memory Input Register
+4209      1         TMREG          Table Memory Register
+4217      1         TM ROM         Table Memory ROM
+4202      1         MDREG          Main Data Register
+4211      1         CB2            Control Buffer 2
+4210      1         CB1            Control Buffer 1
+4214      1         EXPAN          Expansion of CB1
+4212      1         ADDR           Address
+4201      1         S PAD          Scratch Pad
+4236      1         PS RAM 2K      Program Source RAM
+4215      1         MD MEM         Main Data Memory
+4215      1         MD MEM         Main Data Memory
+4226      1         FMT M          Format Mantissa
+4227      1         FMT E          Format Exponent
+4218      1         PDP-11 I/F     PDP-11 Interface
+
 BD4SUP's AP-120B
 Series    Qty.      Name           Function
 4208      1         FMUL C         Floating Multiplier C
