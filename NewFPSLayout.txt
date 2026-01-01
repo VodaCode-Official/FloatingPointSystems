@@ -1,0 +1,44 @@
+If Making an AP-120B
+
+4208    !MISSING! (FMUL C)
+4207    FMUL B         Floating Multiplier B
+4206    FMUL A         Floating Multiplier A
+4205    FADD 3         Floating Adder 3
+4204    FADD 2         Floating Adder 2
+4203    FADD 1         Floating Adder 1
+4200    DATA PAD       Data Pad Left and Right
+4200    DATA PAD       Data Pad Left and Right
+4213    MIREG          Memory Input Register
+4209    !MISSING! (TMREG)
+4217    TM ROM         Table Memory ROM
+4202    !MISSING! (MDREG)
+4211    !MISSING! (CB2)
+4210    !MISSING! (CB1)
+4214    !MISSING! (EXPAN)
+4212    ADDR           Address
+4201    S PAD          Scratch Pad
+4236    PS RAM 2K      Program Source RAM
+4215    !MISSING! (MD MEM)
+4215    !MISSING! (MD MEM)
+4226    FMT M          Format Mantissa
+4227    FMT E          Format Exponent
+4218    !MISSING! (PDP-11 I/F)
+        (Maybe use 4421 PDP 11 I/F?)
+
+Mary has the following:
+4208, 4209, 4210, 4202
+Still missing is:
+4211, 4214, 4215, 4218
+
+If Making an FPS-100
+4401      FA             Floating Adder
+4402      DATA PAD       Data Pad Left
+4402      DATA PAD       Data Pad Right
+4426      FM             Floating Multiplier
+4424      MD             Main Data Memory (Data in from and to Host)
+4425      TM             Table Memory
+4423      P2 (4K)        Processor 2
+4422      P1 (4K)        Processor 1
+4408      P3             Processor 3
+4429      FMT            Formatter
+4421      PDP 11 I/F     PDP 11 Interface
