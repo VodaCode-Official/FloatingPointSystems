@@ -8,6 +8,22 @@ Usagi's FPS-3000
 612-4498-401-A  MEM CTRL        MEM CTRL MP32
 612-4456-403-C  MAIN DATA       MAIN DATA 1 MEG 32 BIT TERM
 
+Usagi's DIY FPS-100
+612-4401-001-C  FA              401-B FA (Floating Adder)
+612-4402-003-B  DATA PAD        402-B DP (Data Pad Left)
+612-4402-003-B  DATA PAD        402-B DP (Data Pad Right)
+612-4426-002-D  FM              426-B FM (Floating Multiplier)
+612-4424-019-G  MD              424-C MD 32K (Main Data Memory)
+612-4425-024-C  TM              425-A TM 2.5K ROM 0K RAM (Table Memory)
+612-4423-003-A  P2 (4K)         423-A P2 4K 2.5K TM ROM
+612-4422-005-F  P1 (4k)         422-B P1 4K
+612-4408-005-F  P3              408-A P3
+2 x 120-pin Spare
+2 x 100-pin Spare
+2 x 100-pin Spare
+612-4429-000-D  FMT             429-0 FMT PDP11
+612-4421-005-N  PDP-11 I/F      421-E GP I/F PDP11
+
 Cully's FPS-100
 612-4401-002-E  FA              401-B FA (Floating Adder)
 612-4402-003-D  DATA PAD        402-B DP (Data Pad Left)

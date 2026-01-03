@@ -1,13 +1,15 @@
 Usagi FPS-100 New Build
-
-4401      FA             Floating Adder
-4402      DATA PAD       Data Pad Left
-4402      DATA PAD       Data Pad Right
-4426      FM             Floating Multiplier
-4424      MD             Main Data Memory (Data in from and to Host)
-4425      TM             Table Memory
-4423      P2 (4K)        Processor 2
-4422      P1 (4K)        Processor 1
-4408      P3             Processor 3
-4429      FMT            Formatter
-4421      PDP 11 I/F     PDP 11 Interface
+612-4401-001-C  FA              401-B FA (Floating Adder)
+612-4402-003-B  DATA PAD        402-B DP (Data Pad Left)
+612-4402-003-B  DATA PAD        402-B DP (Data Pad Right)
+612-4426-002-D  FM              426-B FM (Floating Multiplier)
+612-4424-019-G  MD              424-C MD 32K (Main Data Memory)
+612-4425-024-C  TM              425-A TM 2.5K ROM 0K RAM (Table Memory)
+612-4423-003-A  P2 (4K)         423-A P2 4K 2.5K TM ROM
+612-4422-005-F  P1 (4k)         422-B P1 4K
+612-4408-005-F  P3              408-A P3
+2 x 120-pin Spare
+2 x 100-pin Spare
+2 x 100-pin Spare
+612-4429-000-D  FMT             429-0 FMT PDP11
+612-4421-005-N  PDP-11 I/F      421-E GP I/F PDP11
