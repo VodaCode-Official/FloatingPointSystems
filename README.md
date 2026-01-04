@@ -32,9 +32,11 @@ This project contains datasheets, documentation, and code related to floating-po
 
 ## Contributing
 
+
+
 <!--
 NOTE:
-This section needs verification against original manuals.
+this is not done!
 -->
 
 
