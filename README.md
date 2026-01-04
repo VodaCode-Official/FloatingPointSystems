@@ -30,23 +30,23 @@ This project contains datasheets, documentation, and code related to floating-po
 ## Index - For the folders
 
 1. [OLD](!Old/) - Folder with old stuff , _A trade of some sort_
-2. [AP 120B](AP%20120B/) - Documetation folder for AP 120B, _the predecessor of the FPS 100._
-3. [FPS 100](FPS%20100/) - Documetation folder for FPS 100, _the successor of the AP 120B. With redused cards._
-4. [FPS 164](FPS%20164/) - Documetation folder for FPS 164, _the favorite machine of Usagi Electric._
-5. [FPS 3000](FPS%203000/) - Documetation folder for FPS 3000, _the machine that only 1 still known to exist. And is almost the same as the XP 32 is._
-6. [FPS 5000](FPS%205000/) - Documetation folder for FPS 5000, _As mentioned in fps.pdf, this is a family of the AP 120B, just like any other machine._
+2. [AP 120B](AP%20120B/) - Documentation folder for AP 120B, _the predecessor of the FPS 100._
+3. [FPS 100](FPS%20100/) - Documentation folder for FPS 100, _the successor of the AP 120B. With reduced cards._
+4. [FPS 164](FPS%20164/) - Documentation folder for FPS 164, _the favorite machine of Usagi Electric._
+5. [FPS 3000](FPS%203000/) - Documentation folder for FPS 3000, _the machine of which only 1 still known to exist. And is almost the same as the XP 32 is._
+6. [FPS 5000](FPS%205000/) - Documentation folder for FPS 5000, _As mentioned in fps.pdf, this is a family of the AP 120B, just like any other machine._
 7. [Random FPS information](Z.%20Others/) - Documetation folder for FPS information, _Like part prices and boardrevisions._
-8. [Random PDFs](Z_Brochures/) - Documetation folder for PDFs, _Like product pages and folders._
-9. [Boards in FPS Machines](Cully_Dave.txt) - Documetation file for cards, _The card configuration on different machines._
+8. [Random PDFs](Z_Brochures/) - Documentation folder for PDFs, _Like product pages and folders._
+9. [Boards in FPS Machines](Cully_Dave.txt) - Documentation file for cards, _The card configuration on different machines._
 10. [Magazine of some sort](Digital_Design_V12_N06_198206.pdf) - Some sort of Magazine.
 11. [Boards](FPS%20Board%20List.txt) - A board series, _with documentation._
-12. [Known Surviving](KnownSurviving.txt) - Documetation file for Surviving machines, _With name, place, condition and maybe price ;D_
-13. [Want to make a FPS?](NewFPSLayout.txt) - Documetation file for A Complete Card set for AP 120B, _What some people have._
+12. [Known Surviving](KnownSurviving.txt) - Documentation file for Surviving machines, _With name, place, condition and maybe price ;D_
+13. [Want to make a FPS?](NewFPSLayout.txt) - Documentation file for A Complete Card set for AP 120B, _What some people have._
 
 ## Contributing
 
 > [!CAUTION]
-> This REPO is not meant for harassment, hating or any kind of destroying other people's work! So if you help this repo grow it is appreciated!
+> This REPO is not meant for harassment, hating or any kind of destroying other people's work! So if you help this repo grow, it is appreciated!
 
 ### A little guide:
 
