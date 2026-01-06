@@ -22566,7 +22566,7 @@
 			)
 		)
 	)
-	(global_label "A1MBS05*"
+	(global_label "A2MBS05*"
 		(shape input)
 		(at 86.36 179.07 180)
 		(fields_autoplaced yes)
@@ -24942,7 +24942,7 @@
 			)
 		)
 	)
-	(global_label "A1MBS07*"
+	(global_label "A2MBS07*"
 		(shape input)
 		(at 86.36 184.15 180)
 		(fields_autoplaced yes)
@@ -38450,7 +38450,7 @@
 			)
 		)
 	)
-	(global_label "A1MBS06*"
+	(global_label "A2MBS06*"
 		(shape input)
 		(at 86.36 181.61 180)
 		(fields_autoplaced yes)
@@ -50308,7 +50308,7 @@
 			)
 		)
 	)
-	(global_label "BPMBS16*"
+	(global_label "DPMBS16*"
 		(shape input)
 		(at 233.68 344.17 180)
 		(fields_autoplaced yes)
